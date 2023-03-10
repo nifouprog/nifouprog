@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-I'm more active on my [Gitlab page](https://gitlab.com/nifou)
+I'm more active on my [Gitlab account](https://gitlab.com/nifou).
+
+- 🔭 I’m currently working on several web-related Rust librairies
+- 🌱 I’m currently learning how to make good abstractions
 
 <!--
 **nifouprog/nifouprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
